@@ -2,7 +2,7 @@
 
 Website "about me" sederhana dengan tampilan minimalis & clean, siap di-deploy ke GitHub Pages. Dibangun murni dengan HTML, CSS, dan JavaScript — tanpa framework, tanpa build tools.
 
-**Live demo:** `https://megumegu.web.id` *(ganti sesuai repo kamu)*
+**Live demo:** `https://megumegu.web.id`
 
 ---
 
