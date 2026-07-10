@@ -2,7 +2,7 @@
 
 Website "about me" sederhana dengan tampilan minimalis & clean, siap di-deploy ke GitHub Pages. Dibangun murni dengan HTML, CSS, dan JavaScript — tanpa framework, tanpa build tools.
 
-**Live demo:** `https://username.github.io` *(ganti sesuai repo kamu)*
+**Live demo:** `https://megumegu.web.id` *(ganti sesuai repo kamu)*
 
 ---
 
@@ -20,10 +20,18 @@ Website "about me" sederhana dengan tampilan minimalis & clean, siap di-deploy k
 ## 📁 Struktur File
 
 ```
-├── index.html   → Struktur & konten halaman
-├── style.css    → Semua styling, warna, dan animasi
-├── script.js    → Dark mode, scrollspy, dan interaksi lainnya
-└── README.md    → Dokumen ini
+├── index.html         → Struktur & konten halaman
+├── style.css           → Semua styling, warna, dan animasi
+├── script.js           → Dark mode, scrollspy, dan interaksi lainnya
+├── README.md           → Dokumen ini
+├── CNAME                → Konfigurasi custom domain
+└── assets/
+    ├── favicon.ico       → Ikon tab browser
+    ├── og-image.png      → Gambar preview saat link dibagikan
+    ├── site.webmanifest  → Konfigurasi PWA/metadata situs
+    └── icons/
+        ├── icon-192.png  → Ikon ukuran 192x192
+        └── icon-512.png  → Ikon ukuran 512x512
 ```
 
 ---
